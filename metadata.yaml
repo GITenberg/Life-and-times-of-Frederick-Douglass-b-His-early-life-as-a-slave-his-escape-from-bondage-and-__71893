@@ -5,6 +5,9 @@ contributor:
     agent_name: Ruffin, George L.
     gutenberg_agent_id: '56447'
     url: http://www.gutenberg.org/2009/agents/56447
+covers:
+- cover_type: archival
+  image_path: 71893-h/images/cover.jpg
 creator:
   author:
     agent_name: Douglass, Frederick
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34510
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Douglass
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71893#Life-and-times-of-Frederick-Douglass-b-His-early-life-as-a-slave-his-escape-from-bondage-and-_
 gutenberg_issued: '2023-10-16'
 identifiers:
   gutenberg: '71893'
